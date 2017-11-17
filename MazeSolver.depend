@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1510940806 source:/home/abo0ody/workspace/robotics/roboticsClub/MazeSolver/run.cpp
+	<stdio.h>
+	<thread>
+	<chrono>
+	"run.h"
+	"Maze.h"
+	"Testing.h"
+
+1510940484 /home/abo0ody/workspace/robotics/roboticsClub/MazeSolver/run.h
+	"VirtualArduino.h"
+	"Maze.h"
+	"Robot.h"
+	"Testing.h"
+
+1510940378 /home/abo0ody/workspace/robotics/roboticsClub/MazeSolver/VirtualArduino.h
+	<thread>
+	<chrono>
+	<Arduino.h>
+
+1510941372 source:/home/abo0ody/workspace/robotics/roboticsClub/MazeSolver/Maze.cpp
+	"Maze.h"
+	<cstdio>
+	<iostream>
+
+1510934820 /home/abo0ody/workspace/robotics/roboticsClub/MazeSolver/Maze.h
+	<string>
+
+1510935835 source:/home/abo0ody/workspace/robotics/roboticsClub/MazeSolver/HardwareInterface.cpp
+	"HardwareInterface.h"
+
+1510935829 /home/abo0ody/workspace/robotics/roboticsClub/MazeSolver/HardwareInterface.h
+
+1510934708 source:/home/abo0ody/workspace/robotics/roboticsClub/MazeSolver/Point.cpp
+	"Point.h"
+
+1510934559 /home/abo0ody/workspace/robotics/roboticsClub/MazeSolver/include/Point.h
+
+1510940723 source:/home/abo0ody/workspace/robotics/roboticsClub/MazeSolver/Robot.cpp
+	"Robot.h"
+	<stdio.h>
+	"Maze.h"
+
+1510939992 /home/abo0ody/workspace/robotics/roboticsClub/MazeSolver/Point.h
+
+1510940655 source:/home/abo0ody/workspace/robotics/roboticsClub/MazeSolver/Testing.cpp
+	"Testing.h"
+	"Robot.h"
+
+1510940659 /home/abo0ody/workspace/robotics/roboticsClub/MazeSolver/Testing.h
+	"Point.h"
+	<string>
+	"Maze.h"
+
+1510939939 /home/abo0ody/workspace/robotics/roboticsClub/MazeSolver/Robot.h
+	"Point.h"
+	"Testing.h"
+
